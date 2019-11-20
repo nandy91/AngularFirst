@@ -1,0 +1,9 @@
+input { margin-bottom: 15px;}
+.input-todo {
+    width: 300px;
+}
+.del-label {
+    text-align:right;
+    float: right;
+    color: red;
+}
